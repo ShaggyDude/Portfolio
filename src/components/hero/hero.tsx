@@ -9,6 +9,8 @@ export default component$(() => {
           src="https://images.unsplash.com/photo-1449247709967-d4461a6a6103?auto=format&fit=crop&q=80&w=2000&h=1200" 
           alt="Minimal workspace" 
           class="w-full h-full object-cover opacity-80"
+          height="1200"
+          width="2000"
         />
       </div>
       
