@@ -10,10 +10,10 @@ export default component$(() => {
             Available for freelance projects and collaborations. Get in touch via email:
           </p>
           <a 
-            href="mailto:hello@example.com" 
+            href="mailto:scott@romack.net" 
             class="text-lg hover:opacity-60 transition-opacity"
           >
-            hello@example.com
+            scott@romack.net
           </a>
         </div>
       </div>
