@@ -10,6 +10,10 @@
   body {
     @apply antialiased min-h-screen;
   }
+  b {
+    display: block;
+    font-weight: unset;
+  }
 }
 
 @layer components {
