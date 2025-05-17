@@ -14,8 +14,8 @@ export default component$(() => {
         />
       </div>
       
-      {/* Dots pattern overlay */}
-      <div class="absolute inset-0 opacity-[0.5] bg-[radial-gradient(theme(colors.white)_1px,transparent_1px)] [background-size:32px_32px]" />
+      {/* Dots pattern overlay TODO: should move this into index.jsx? */}
+      <div class="fixed inset-0 opacity-[0.7] bg-[radial-gradient(theme(colors.white)_1px,transparent_1px)] [background-size:32px_32px]" />
       
       {/* Content */}
       <div class="container relative">
