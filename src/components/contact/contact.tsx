@@ -5,7 +5,7 @@ export default component$(() => {
     <section id="contact" class="section bg-gray-50">
       <div class="container">
         <div class="max-w-2xl">
-          <h2 class="text-lg mb-12 tracking-wide">Contact</h2>
+          <h2 class="text-3xl font-normal mb-12 tracking-wide">Contact</h2>
           <p class="text-secondary text-lg leading-relaxed mb-8">
             Available for freelance projects and collaborations. Get in touch via email:
           </p>

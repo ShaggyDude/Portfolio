@@ -40,7 +40,7 @@ export default component$(() => {
 
 
       <div class="container relative">
-        <h2 class="text-lg mb-12 tracking-wide">Projects</h2>
+        <h2 class="text-3xl font-normal mb-12 tracking-wide">Projects</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project) => (
             <a 

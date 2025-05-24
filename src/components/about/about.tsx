@@ -5,7 +5,7 @@ export default component$(() => {
     <section id="about" class="section bg-gray-50">
       <b class="container">
         <b class="max-w-2xl">
-          <h2 class="text-lg mb-12 tracking-wide">About</h2>
+          <h2 class="text-3xl font-normal mb-12 tracking-wide">About</h2>
           <p class="text-secondary text-lg leading-relaxed mb-8">
             I'm a designer and developer with a focus on minimalist interfaces and thoughtful user experiences. My work aims to find the perfect balance between form and function.
           </p>
