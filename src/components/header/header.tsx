@@ -12,28 +12,13 @@ export default component$(() => {
         <nav>
           <ul class="flex items-center space-x-12 ml-4">
             <li>
-              <a 
-                href="#about" 
-                class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full"
-              >
-                about
-              </a>
+              <a href="#about" class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full">about</a>
             </li>
             <li>
-              <a 
-                href="#projects" 
-                class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full"
-              >
-                projects
-              </a>
+              <a href="#projects" class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full">projects</a>
             </li>
             <li>
-              <a 
-                href="#contact" 
-                class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full"
-              >
-                contact
-              </a>
+              <a href="#contact" class="relative after:absolute after:bottom-[-4px] after:left-0 after:h-[1px] after:w-0 after:bg-gradient-to-r after:from-gray-300 after:to-gray-600 after:transition-all after:duration-200 after:ease-out hover:after:w-full">contact</a>
             </li>
           </ul>
         </nav>
